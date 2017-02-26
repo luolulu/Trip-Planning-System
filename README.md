@@ -1,2 +1,3 @@
 # Trip-Planning-System
-Trip Planning System – trip planning integrating B/CS area travel modes, Transportation Services system, Google Map, etc. Extend existing system to provide an option to minimize travel time, and to use real-time bus location and capacity information when planning a trip.
+Trip Planning System – The ultimate goal of this project is to integrate the real- bus time information into the system.(The old system has 2 links that does not link the real-time bus information together with the trip planner. ) Then we will try to convert the current system int o an ESRI system , which is the Transportation Services currently uses. And the entire idea is to help the users have a better estimation on a travel option’s time span and cost. Speaking of expectations, at the end of the semester, we will be able to make the app to provide different options which will give people the ability to choose the mode that best suites them.
+
